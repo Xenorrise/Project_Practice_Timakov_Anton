@@ -1,0 +1,106 @@
+body {
+    font-family: 'Trebuchet MS', Verdana, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    background-color: #222; /* темнее */
+    color: white;
+    padding: 1em;
+  }
+  
+  header h1 {
+    color: white; /* Главный заголовок всегда белый */
+  }
+  
+  nav a {
+    background-color: #c00; /* красный фон кнопок */
+    color: white;
+    margin: 0 5px;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    background-color: #900; /* темнее при наведении */
+  }
+  
+  main {
+    flex: 1;
+    padding: 20px;
+    background-color: #e0e0e0; /* ярко-серый фон */
+    color: #111; /* тёмный текст */
+    font-weight: bold;
+  }
+  
+  main h2, main h3 {
+    color: #111; /* Заголовки основного текста тёмные */
+  }
+  
+  footer {
+    background-color: #111; /* ещё темнее */
+    color: white;
+    text-align: center;
+    padding: 1em;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+  
+  article {
+    background: #d0d0d0; /* светло-серый для карточек */
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    color: #111; /* тёмный текст внутри карточек */
+  }
+
+  .card {
+    background: #f0f0f0; /* тот же светло-серый */
+    padding: 20px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    color: #111;
+    font-weight: normal; /* текст аннотации чуть легче читается без bold */
+  }
+  
+  .card h2 {
+    margin-top: 0;
+    color: #111;
+  }
+  
+  .card p {
+    line-height: 1.6;
+    margin-bottom: 1em;
+  }
+
+  .text-and-image {
+    display: flex;
+    align-items: top; /* Вертикальное выравнивание по центру */
+    justify-content: space-between; /* Расстояние между текстом и картинкой */
+    gap: 20px; /* Отступ между текстом и картинкой */
+  }
+  
+  .text {
+    flex: 1; /* Текст займет доступное место */
+  }
+  
+  .image img {
+    max-width: 300px; /* Ограничиваем размер изображения */
+    height: auto;
+    border-radius: 8px; /* Для красоты */
+  }
+  
