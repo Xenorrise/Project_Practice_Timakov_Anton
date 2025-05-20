@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPFHRDatabase.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление" Height="450" Width="800" MinWidth="760">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Отделы" FontWeight="Bold" />
+            <ListBox x:Name="DepartmentsListBox" DisplayMemberPath="ExtendedName" />
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Button Content="Добавить" Click="AddDepartment" />
+                <Button Content="Обновить" Margin="5,0" Click="RefreshLists_Departments" />
+                <Button Content="Редактировать" Margin="5,0" Click="EditDepartment" />
+                <Button Content="Удалить" Margin="5,0" Click="DeleteDepartment" />
+            </StackPanel>
+            <CheckBox Content="Тестовые данные(In-Memory)"
+                      Checked="InMemoryStorageActive" Unchecked="JsonStorageActive" />
+            <Button Content="Выбрать папку" Click="SelectFolderButton" />
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="10,0,0,0">
+            <TextBlock Text="Сотрудники" FontWeight="Bold" />
+            <ListBox x:Name="EmployeesListBox" DisplayMemberPath="FullName" />
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <Button Content="Добавить" Click="AddEmployee" />
+                <Button Content="Обновить" Margin="5,0" Click="RefreshLists_Employees" />
+                <Button Content="Редактировать" Margin="5,0" Click="EditEmployee" />
+                <Button Content="Удалить" Margin="5,0" Click="DeleteEmployee" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

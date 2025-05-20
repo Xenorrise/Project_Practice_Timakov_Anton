@@ -1,0 +1,12 @@
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\bin\Debug\net9.0\HRDatabase.deps.json
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\bin\Debug\net9.0\HRDatabase.dll
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\bin\Debug\net9.0\HRDatabase.pdb
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\HRDatabase.csproj.AssemblyReference.cache
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\HRDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\HRDatabase.AssemblyInfoInputs.cache
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\HRDatabase.AssemblyInfo.cs
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\HRDatabase.csproj.CoreCompileInputs.cache
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\HRDatabase.dll
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\refint\HRDatabase.dll
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\HRDatabase.pdb
+D:\IT\Projects\VS_Code_Projects\.NET_Projects\HRDatabase\HRDatabase\obj\Debug\net9.0\ref\HRDatabase.dll

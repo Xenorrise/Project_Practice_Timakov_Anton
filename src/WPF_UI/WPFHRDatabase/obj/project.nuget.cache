@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMhpCamFdz8=",
+  "success": true,
+  "projectFilePath": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\WPFHRDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

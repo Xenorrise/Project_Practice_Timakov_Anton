@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|d:\\it\\projects\\ms_visualstudio_projects\\wpfhrdatabase\\wpfhrdatabase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|solutionrelative:wpfhrdatabase\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|d:\\it\\projects\\ms_visualstudio_projects\\wpfhrdatabase\\wpfhrdatabase\\wpfhrdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|solutionrelative:wpfhrdatabase\\wpfhrdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|d:\\it\\projects\\ms_visualstudio_projects\\wpfhrdatabase\\wpfhrdatabase\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|solutionrelative:wpfhrdatabase\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|d:\\it\\projects\\ms_visualstudio_projects\\wpfhrdatabase\\wpfhrdatabase\\employeedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|solutionrelative:wpfhrdatabase\\employeedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|d:\\it\\projects\\ms_visualstudio_projects\\wpfhrdatabase\\wpfhrdatabase\\departmentdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|solutionrelative:wpfhrdatabase\\departmentdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|d:\\it\\projects\\ms_visualstudio_projects\\wpfhrdatabase\\wpfhrdatabase\\employeedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|solutionrelative:wpfhrdatabase\\employeedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|d:\\it\\projects\\ms_visualstudio_projects\\wpfhrdatabase\\wpfhrdatabase\\departmentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{04C4B140-F03A-4D75-B589-401CF0E05739}|WPFHRDatabase\\WPFHRDatabase.csproj|solutionrelative:wpfhrdatabase\\departmentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFHRDatabase\\MainWindow.xaml",
+              "ToolTip": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\MainWindow.xaml",
+              "RelativeToolTip": "WPFHRDatabase\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:37:22.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WPFHRDatabase.csproj",
+              "DocumentMoniker": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\WPFHRDatabase.csproj",
+              "RelativeDocumentMoniker": "WPFHRDatabase\\WPFHRDatabase.csproj",
+              "ToolTip": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\WPFHRDatabase.csproj",
+              "RelativeToolTip": "WPFHRDatabase\\WPFHRDatabase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T13:08:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFHRDatabase\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFHRDatabase\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:37:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDialog.xaml.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\EmployeeDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFHRDatabase\\EmployeeDialog.xaml.cs",
+              "ToolTip": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\EmployeeDialog.xaml.cs",
+              "RelativeToolTip": "WPFHRDatabase\\EmployeeDialog.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:59:46.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDialog.xaml.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\DepartmentDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WPFHRDatabase\\DepartmentDialog.xaml.cs",
+              "ToolTip": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\DepartmentDialog.xaml.cs",
+              "RelativeToolTip": "WPFHRDatabase\\DepartmentDialog.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:59:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDialog.xaml",
+              "DocumentMoniker": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\EmployeeDialog.xaml",
+              "RelativeDocumentMoniker": "WPFHRDatabase\\EmployeeDialog.xaml",
+              "ToolTip": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\EmployeeDialog.xaml",
+              "RelativeToolTip": "WPFHRDatabase\\EmployeeDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:59:40.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentDialog.xaml",
+              "DocumentMoniker": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\DepartmentDialog.xaml",
+              "RelativeDocumentMoniker": "WPFHRDatabase\\DepartmentDialog.xaml",
+              "ToolTip": "D:\\IT\\Projects\\MS_VisualStudio_Projects\\WPFHRDatabase\\WPFHRDatabase\\DepartmentDialog.xaml",
+              "RelativeToolTip": "WPFHRDatabase\\DepartmentDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:56:12.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
