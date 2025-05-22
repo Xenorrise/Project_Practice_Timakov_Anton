@@ -104,7 +104,7 @@ public class DBControl {
         Guid prevDepartId = existing.DepartmentId;
         existing.DepartmentId = departId;
 
-        if (prevDepartId != departId)
+        if (prevDepartId != departId && departId != Guid.Empty)
         {
             if (isInMemory)
             {
@@ -141,8 +141,9 @@ public class DBControl {
         else
         {
             _depRepoJson.GetById(_empRepoJson.GetById(id).DepartmentId).EmployeesCount--;
+            if(id != Guid.Empty)
+                _depRepoJson.Update(_depRepoJson.GetById(_empRepoJson.GetById(id).DepartmentId));
             _empRepoJson.Delete(id);
-            _depRepoJson.Update(_depRepoJson.GetById(_empRepoJson.GetById(id).DepartmentId));
         }
     }
 

@@ -41,8 +41,11 @@ public class JsonFileDepartmentRepository : IDepartmentRepository
 
     public void Update(Department dep)
     {
-        _cache[dep.Id] = dep;
-        SaveToFile(dep);
+        if (dep != _safeDep)
+        {
+            _cache[dep.Id] = dep;
+            SaveToFile(dep);
+        }
     }
 
     public void Delete(Guid id)
