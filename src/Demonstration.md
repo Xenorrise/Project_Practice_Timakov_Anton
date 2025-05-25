@@ -1,2 +1,2 @@
 Ссылка на видеодемонстрацию:
-https://disk.yandex.ru/i/0cInKRNmANUXLA
+https://disk.yandex.ru/i/WCZQ68DpcDlqGw
